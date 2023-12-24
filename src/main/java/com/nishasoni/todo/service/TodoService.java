@@ -1,6 +1,6 @@
 package com.nishasoni.todo.service;
 
-import com.nishasoni.todo.dto.TodoDto;
+import net.javaguides.todo.dto.TodoDto;
 
 import java.util.List;
 

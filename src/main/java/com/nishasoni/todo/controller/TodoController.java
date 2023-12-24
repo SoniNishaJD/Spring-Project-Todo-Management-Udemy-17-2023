@@ -1,8 +1,8 @@
 package com.nishasoni.todo.controller;
 
 import lombok.AllArgsConstructor;
-import com.nishasoni.todo.dto.TodoDto;
-import com.nishasoni.todo.service.TodoService;
+import net.javaguides.todo.dto.TodoDto;
+import net.javaguides.todo.service.TodoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
